@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Kajal Kumari
 
-<!--
-**Kajal22630/Kajal22630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am interested in Artificial Intelligence and Machine Learning.  
+Currently learning and improving my programming skills.
+---
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Machine Learning
+- SQL
+- DBMS
+- Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projects
+- 💼 MLR Salary Prediction
+- 📈 Linear Regression Model
+- 🤖 Jarvis Using Python
+- 🎮 Snake Water Gun Game
+
+---
+
+## 📚 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- NLP
+
+---
+
+⭐ Thank you for visiting my profile!
